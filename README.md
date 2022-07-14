@@ -1,2 +1,3 @@
-# eigen3.3.7
-eigen for ORB
+**Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.**
+
+For more information go to http://eigen.tuxfamily.org/.
